@@ -31,7 +31,7 @@ BOT_USERNAME = "kakmakdakfood_bot"
 PHONE_NUMBER = "+79789927572"
 
 ADMIN_CHAT_ID = -1003319399972
-PUBLIC_GROUP_ID = -1003578178561
+PUBLIC_GROUP_ID = -1003843923480
 
 YANDEX_LINK = "https://yandex.ru/maps/org/kakmakdak/161927095302"
 YANDEX_REVIEWS_LINK = "https://yandex.ru/maps/org/kakmakdak/161927095302/reviews"
