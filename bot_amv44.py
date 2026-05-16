@@ -28,7 +28,7 @@ except Exception:
 TOKEN = os.getenv("TOKEN")
 DATABASE_URL = os.getenv("DATABASE_URL")
 
-BOT_USERNAME = "kakmakdakfood_bot"
+BOT_USERNAME = "kakmakdak_bot"
 PHONE_NUMBER = "+79789927572"
 
 ADMIN_CHAT_ID = -1003701168467
