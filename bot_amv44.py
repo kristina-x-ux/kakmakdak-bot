@@ -1682,7 +1682,7 @@ def get_group_buttons_keyboard():
     kb = types.InlineKeyboardMarkup()
     kb.add(types.InlineKeyboardButton(
         "🍔 Оформить заказ через бот",
-        url=f"https://t.me/{BOT_USERNAME}"
+        url=f"https://t.me/kakmakdak_bot"
     ))
     return kb
 
